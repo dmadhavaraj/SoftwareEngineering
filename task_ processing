@@ -10,3 +10,12 @@ Fibers
 Blocking
 Non blocking
 Event loop
+   How NodeJS works 
+The Linux select socket approach
+How fork join thread pool works
+Java Executor framework
+
+How schedulers work
+How Garbage collection works
+
+Cron jobs
