@@ -1,8 +1,10 @@
 # SoftwareEngineering
 High Availability
 
-Redundance
+Redundancy
 
 Cache management
 
 Scalability(Horizontal/Vertical)
+
+Fault tolerance
