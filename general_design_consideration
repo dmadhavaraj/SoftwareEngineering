@@ -1,0 +1,32 @@
+Distributed Message Queue
+  DLQ - Dead Letter Queue
+  Push or pull mechanism
+  How the nodes are getting communicating
+  Persistence level
+  How will be acting as Master
+  How security is handled - encryption
+  CAP is involved here ??? (As it is a distributed system)
+  
+  
+CAP theorm
+  Only for distributed storage system?
+  Why NoSQL database fall into this category
+  
+NOSQL - Columner database design
+
+How to fix the threadpool size
+
+RESTful design of Zinwave Hub GUI - Server side redndering
+JSP template machanism
+Servlet spec
+EJB spec
+Jakarta
+Spring(WS)
+Dependency Injection
+
+RMI
+RPC
+GRPC
+
+Iterator pattern
+Observer pattern
